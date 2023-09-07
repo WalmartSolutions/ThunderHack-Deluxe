@@ -1,4 +1,4 @@
-<h1 align="center">ThunderHack</h1>
+<h1 align="center">ThunderHack Deluxe</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
