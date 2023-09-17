@@ -8,7 +8,7 @@ HWIDChecker.hwidCheck();
 ![image](https://media.discordapp.net/attachments/1139491534727827518/1149020500912259103/image.png?width=934&height=378)
 
 [3000IQPlayA]: https://github.com/3000IQPlay
-[relapzieA]: [https://github.com/3000IQPlay](https://github.com/FeydH)
+[relapzieA]: https://github.com/FeydH
 
 # Credits
 - MrZak34 - Making the client.
